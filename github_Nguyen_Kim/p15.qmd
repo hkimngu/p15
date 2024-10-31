@@ -1,0 +1,8 @@
+---
+title: "p15"
+author: "Kim Nguyen"
+format: 
+  html:
+    embed-resources: true
+---
+
